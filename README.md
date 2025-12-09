@@ -1,5 +1,5 @@
 
-# ** private-projects-portfolio – Context and Overview**
+# private-projects-portfolio – Context and Overview
 
 Some people notice that several of my more advanced or technical projects don’t appear publicly on my GitHub.
 The reason is simple: **a good portion of what I’m working on right now is still in research, draft, or exploratory form**, and publishing it too early would create more confusion than clarity.
@@ -10,14 +10,13 @@ It’s not a “hidden portfolio” — it’s just a way to keep track of ongoi
 
 ---
 
-## **What I’m Working On (Grouped by Theme)**
+## What I’m Working On (Grouped by Theme)
 
 Instead of listing individual repositories, I prefer to organize things by area of investigation.
 This also gives me flexibility as projects grow, merge, or change direction.
 
----
 
-### ** Statistical Modeling e Neural Networks**
+### Statistical Modeling and Neural Networks
 
 Experiments connecting ideas from classical modeling with deep learning, such as:
 
@@ -28,9 +27,8 @@ Experiments connecting ideas from classical modeling with deep learning, such as
 
 This work extends the research I started years ago and continues to develop.
 
----
 
-### ** Architectures Inspired by Real Enterprise Scenarios**
+### Architectures Inspired by Real Enterprise Scenarios
 
 These prototypes aren’t polished, but they help me explore how I would design or evaluate systems in practical environments:
 
@@ -43,7 +41,7 @@ They stay private mostly to avoid misinterpretation, since they simulate (not re
 
 ---
 
-### ** Experimental / Sandbox Projects**
+### Experimental / Sandbox Projects
 
 This is where I test unconventional or just-for-fun ideas:
 
@@ -56,7 +54,7 @@ Some evolve into working prototypes; others remain exploratory notes.
 
 ---
 
-## **Access to the Projects**
+## Access to the Projects
 
 If you’re evaluating my work for:
 
@@ -76,7 +74,7 @@ I prefer to share context individually because each project is at a different st
 
 ---
 
-## **Final Note**
+## Final Note
 
 This repository **does not contain source code**.
 It’s only meant to clarify why certain important or ongoing projects don’t appear publicly and to give a high-level sense of what I’m researching at the moment.
