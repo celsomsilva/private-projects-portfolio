@@ -48,12 +48,79 @@ They stay private mainly because they simulate enterprise-like setups and need p
 
 A space for unusual or exploratory ideas:
 
-* small neural engines written in Pascal,
+* Explainable neural networks and AI frameworks for educational purposes,
 * quantum-inspired experiments,
 * minimalistic or retro AI frameworks,
 * early multi-agent environment designs.
 
 Some become usable prototypes; others remain thought experiments.
+
+---
+
+
+
+## Upcoming Private Projects (In Progress)
+
+Some of the first private repositories that will reach a stable and presentable state are listed below.
+They are currently under active development and remain private to allow proper maturation, validation, and documentation.
+
+Once completed, they can be shared **selectively and with proper context**, as each project addresses a different technical and research dimension.
+
+---
+
+### 1) hybrid-r-python-ml-system
+
+*(R and Python versions)*
+
+This project is a **full, end-to-end applied case study** designed to demonstrate competencies in:
+
+* data engineering,
+* statistical modeling,
+* and integration with Large Language Models (LLMs).
+
+The core idea is to **revisit and operationalize concepts from my undergraduate thesis**, which focused on Walmart weekly sales prediction using statistical and multilevel models, and extend them into a **practical application layer**, including an API-oriented design.
+
+Two parallel implementations are planned:
+
+* **R version** — emphasizing statistical rigor, diagnostics, and reproducibility.
+* **Python version** — focusing on interoperability, pipelines, and extensibility.
+
+This repository is inspired by real enterprise data & AI scenarios and is intended as a structured technical exercise rather than a production system.
+
+
+
+### 2) rag-statistical-model-explainer/
+
+This project explores the intersection between **statistical modeling and LLM-based systems**.
+
+The goal is to build an intelligent system using **LLMs and Retrieval-Augmented Generation (RAG)** that can:
+
+* read outputs from statistical models (Linear Regression, GLM, HLM3),
+* interpret coefficients, diagnostics, and assumptions,
+* and generate structured, human-readable explanations.
+
+Rather than replacing statistical reasoning, the system is designed to **augment interpretation**, acting as an explanatory layer on top of classical models.
+
+This work sits at the boundary between:
+
+* statistical inference,
+* explainability,
+* and applied LLM systems.
+
+
+
+### 3) java-agents/
+
+
+This repository will focus on **agent-based architectures implemented in Java**.
+
+The emphasis will be on:
+
+* agent orchestration,
+* controlled action execution,
+* integration with LLMs,
+* and clean, enterprise-oriented architectural design.
+
 
 ---
 
